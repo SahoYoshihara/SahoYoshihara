@@ -1,5 +1,5 @@
 # SahoYoshihara
-個人用ポートレポジトリ
+## ポートフォリオ
 
 ## 作成動画
 ### [TEDxAoyamaGakuinU2020](https://www.facebook.com/tedxaogaku17/?ref=page_internal)
